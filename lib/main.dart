@@ -1,10 +1,8 @@
 import 'package:api_deezer/features/presentation/searchPage.dart';
-import 'package:api_deezer/features/presentation/results_page.dart';
 import 'package:api_deezer/features/presentation/splashPage.dart';
 import 'package:flutter/material.dart';
 
 import 'package:go_router/go_router.dart';
-import 'package:http/http.dart';
 
 void main() async {
   runApp(MainApp());

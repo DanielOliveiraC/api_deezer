@@ -1,6 +1,5 @@
 // Página de Splash
 import 'package:flutter/material.dart';
-import 'package:api_deezer/main.dart';
 import 'package:go_router/go_router.dart';
 
 class SplashPage extends StatefulWidget {
